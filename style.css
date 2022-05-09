@@ -1,0 +1,32 @@
+h1 {
+  text-align: center;
+  background-color: yellow;
+  word-break: break-all;
+}
+
+body {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+button {
+  padding: 20px 60px;
+  font-size: 10px;
+  font-weight: bold;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  background-color: green;
+}
+
+.demo {
+  text-align: center;
+  padding: 10px;
+  font-weight: 800;
+}
+/*# sourceMappingURL=style.css.map */

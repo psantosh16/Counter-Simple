@@ -1,0 +1,22 @@
+
+h1{
+    text-align: center;
+background-color: yellow;
+    word-break: break-all;
+}
+body{
+    display: flex;
+flex-direction: column;
+}
+button{
+    padding: 20px 60px;
+    font-size: 10px;
+    font-weight: bold;  
+    align-items: center;
+    background-color: green;
+}
+.demo{
+    text-align: center;
+    padding: 10px;
+    font-weight: 800;
+}
